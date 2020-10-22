@@ -1,5 +1,3 @@
 # data-science-projects
-I am in the process of polishing my other projects to be shared here.
-
-For the moment I have uploaded one rather large project to show some of the work I have been doing.
-The project was created in jupyter notebook and should be opened there, as it contains substantial markdown notes.
+I have uploaded some of my Jupyter Notebook Python projects here.
+Feel free to view and comment if you have suggestions to improve my code or approach, etc.
